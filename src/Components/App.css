@@ -1,0 +1,46 @@
+.App {
+  background-color: antiquewhite;
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.container {
+  position: relative;
+  top: 90px;
+  padding: 40px auto;
+}
+.heading {
+}
+.input {
+  width: 290px;
+  text-align: center;
+
+  color: black;
+  background-color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.submit-btn {
+  font-size: 18px;
+  background-color: darkgrey;
+  color: blue;
+  border: none;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+.random-as {
+  margin-top: 20px;
+}
+.rdm-btn {
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+  margin: 5px;
+  background-color: black;
+  color: white;
+}
